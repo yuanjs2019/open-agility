@@ -46,7 +46,7 @@
 
 [13. SpringBoot使用Caffeine本地缓存](./doc/quote-essay/actual_operation.md?#SpringBoot使用Caffeine本地缓存)
 
-[14. 十个最常用的JVM 配置参数](./doc/quote-essay/actual_operation.md?#十个最常用的JVM 配置参数)
+[14. 十个最常用的JVM 配置参数](./doc/quote-essay/actual_operation.md?#十个最常用的JVM配置参数)
 
 [15. 如何设计一个安全的对外接口?](./doc/quote-essay/actual_operation.md?#如何设计一个安全的对外接口)
 
