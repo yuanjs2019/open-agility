@@ -1043,7 +1043,7 @@ ES：
 
 
 
-### 熟悉 Linux 命令
+### 熟悉Linux命令
 
 #### 基本操作
 
@@ -1697,7 +1697,7 @@ r b swpd free buff cache si so bi bo in cs us sy id wa
 - id 空闲 CPU时间，一般来说，id + us + sy = 100,一般我认为id是空闲CPU使用率，us是用户CPU使用率，sy是系统CPU使用率。
 - wt 等待IO CPU时间。
 
-### SpringBoot 自带 的工具类
+### SpringBoot自带的工具类
 
 #### 断言
 
